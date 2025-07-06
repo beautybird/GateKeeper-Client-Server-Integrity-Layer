@@ -27,8 +27,11 @@ apps a cryptographically signed "handshake" on every request.
 
    🚀 Quick‑start (10 min)
 
-NOTE: 
+NOTES: 
+
 For tables, policies,triggers & functions and the edge function ,You may run all the code at the Supabase SQL editor (preffered) or bash CLI .
+
+Current codes apply for Aupabase. For dedicated Postgresql comming soon.
 
 ### 1 · Clone & run the setup SQL
 
