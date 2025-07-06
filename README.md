@@ -24,12 +24,12 @@ apps a cryptographically signed "handshake" on every request.
 | Transport | Enforces HTTPS, HSTS, no‑compression bodies        |
 | Identity  | Verifies Supabase JWT on each call                 |
 | Freshness | ±30 s timestamp check to block replay              |
-| Integrity | HMAC‑SHA‑256 signature with per‑user `edge_secret` |
-| Abuse     | Per‑user rate‑limit (`rate_limits` table)          |
+| Integrity | HMAC‑SHA‑256 signature |
+| Abuse     | Per‑user rate‑limit         |
 | Logging   | Safe insert into `public.messages` (optional)      |
-| Clock‑skew| manipulation (client sets clock back/forward to reuse HMAC)  |
-| Reject oversized | Reject oversized or compressed bodies (you can set the size) |
-| JSON‑schema validation | Strict JSON‑schema validation (Zod) ,Unknown keys are automatically stripped  |
+| Clock‑skew| manipulation  |
+| Reject oversized | Reject oversized |
+| JSON‑schema validation | Strict JSON‑schema validation (Zod) |
 
 And other newr sophisticated attacks will be handled by the GateKeeper . 
 
