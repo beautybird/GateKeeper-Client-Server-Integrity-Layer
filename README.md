@@ -1,3 +1,8 @@
+
+![gatekeeper_1](https://github.com/user-attachments/assets/9c2df725-a0eb-479b-9320-f310462aa73e)
+
+
+
 # GateKeeper-Client-Server-Integrity-Layer
 
 A security layer sits in front of the connection between a server connection with the client
