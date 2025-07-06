@@ -1,5 +1,6 @@
 
-![gatekeeper_1](https://github.com/user-attachments/assets/9c2df725-a0eb-479b-9320-f310462aa73e)
+![gatekeeper_logo](https://github.com/user-attachments/assets/2d204146-e5e0-4304-ba9e-7531a914e850)
+
 
 
 
