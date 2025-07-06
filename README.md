@@ -31,6 +31,8 @@ apps a cryptographically signed "handshake" on every request.
 | Reject oversized | Reject oversized or compressed bodies (you can set the size) |
 | JSON‑schema validation | Strict JSON‑schema validation (Zod) ,Unknown keys are automatically stripped  |
 
+And other newr sophisticated attacks will be handled by the GateKeeper . 
+
 
    🚀 Quick‑start (10 min)
 
