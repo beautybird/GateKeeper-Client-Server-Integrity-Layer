@@ -4,8 +4,9 @@ A security layer sits in front of the connection between a server connection wit
 
 GateKeeper – Client ↔ Server Integrity Layer 
 
-  Stop replay, spoofing & abuse in 10 minutes.**  EdgeSecure drops a hardened
-Edge Function in front of your Supabase backend and gives your Flutter & iOS
+  Stop replay, spoofing & abuse in 10 minutes.
+  
+  GateKeeper drops a hardened Edge Function in front of your backend and gives your Flutter & iOS
 apps a cryptographically signed "handshake" on every request.
 
 
