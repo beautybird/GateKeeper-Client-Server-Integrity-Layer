@@ -32,7 +32,7 @@ NOTES:
 
 For tables, policies,triggers & functions and the edge function ,You may run all the code at the Supabase SQL editor (preffered) or bash CLI .
 
-Current codes apply for Aupabase. For dedicated Postgresql comming soon.
+Current codes apply for Supabase Platform. For dedicated Postgresql comming soon.
 
 ### 1 · Clone & run the setup SQL
 
