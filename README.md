@@ -1,5 +1,7 @@
 # GateKeeper-Client-Server-Integrity-Layer-for-Supabase
+
 A security layer sits in front of the connection between a server connection with the client
+
 GateKeeper – Client ↔ Server Integrity Layer 
 
   Stop replay, spoofing & abuse in 10 minutes.**  EdgeSecure drops a hardened
