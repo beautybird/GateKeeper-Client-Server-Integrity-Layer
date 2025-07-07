@@ -31,7 +31,7 @@ apps a cryptographically signed "handshake" on every request.
 | Reject oversized | Reject oversized |
 | JSON‑schema validation | Strict JSON‑schema validation (Zod) |
 
-And other newr sophisticated attacks will be handled by the GateKeeper . 
+And other newer sophisticated attacks will be handled by the GateKeeper . 
 
 Every 15 minutes the checks automatically will run against threats .
 
