@@ -33,7 +33,7 @@ apps a cryptographically signed "handshake" on every request.
 
 And other newr sophisticated attacks will be handled by the GateKeeper . 
 
-Every 15 minutes the checke automatically will run against threats .
+Every 15 minutes the checks automatically will run against threats .
 
 ## Invocation 
 
