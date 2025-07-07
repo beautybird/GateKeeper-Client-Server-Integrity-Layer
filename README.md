@@ -33,6 +33,18 @@ apps a cryptographically signed "handshake" on every request.
 
 And other newr sophisticated attacks will be handled by the GateKeeper . 
 
+Every 15 minutes the checke automatically will run against threats .
+
+## Invocation 
+
+![edge_function_invocations](https://github.com/user-attachments/assets/490abb6c-d6f3-47bb-8c31-37e89d7037bc)
+
+
+## Logs the result of the checks
+
+
+![Edge_function_log](https://github.com/user-attachments/assets/32bc8a4d-b066-4699-a111-b98ed2665a9d)
+
 
    🚀 Quick‑start (10 min)
 
