@@ -15,6 +15,8 @@ GateKeeper – Client ↔ Server Integrity Layer
   GateKeeper drops a hardened Edge Function in front of your backend and gives your Flutter & iOS
 apps a cryptographically signed "handshake" on every request.
 
+GateKeeper Basic : Deal with following threats. 
+
 
 
  ✨ Features
@@ -31,7 +33,7 @@ apps a cryptographically signed "handshake" on every request.
 | Reject oversized | Reject oversized |
 | JSON‑schema validation | Strict JSON‑schema validation (Zod) |
 
-And other newer sophisticated attacks will be handled by the GateKeeper . 
+
 
 Every 15 minutes the checks automatically will run against threats .
 
@@ -44,6 +46,10 @@ Every 15 minutes the checks automatically will run against threats .
 
 
 ![Edge_function_log](https://github.com/user-attachments/assets/32bc8a4d-b066-4699-a111-b98ed2665a9d)
+
+
+
+GateKeeper Advanced  : Deal with basic threats +  other newer sophisticated attacks  .
 
 
    🚀 Quick‑start (10 min)
