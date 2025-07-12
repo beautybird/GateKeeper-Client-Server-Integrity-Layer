@@ -132,6 +132,10 @@ edge-secure-connection/
 If any step fails the function returns **401 / 413 / 429** and no DB write is
 performed.
 
+-----------------------------------------------------------------------------------------------------
+  We have created attack of every type of the attacks the GateKeeper protects your connection against.
+You may run those attacks from a terminal or a device computer, on your connection .
+Once you apply the GateKeeper on your apps , you may run those simulated attacks.
 
  📚 Documentation
 
