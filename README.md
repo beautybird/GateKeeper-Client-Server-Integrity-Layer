@@ -137,6 +137,8 @@ performed.
 You may run those attacks from a terminal or a device computer, on your connection .
 Once you apply the GateKeeper on your apps , you may run those simulated attacks.
 
+-----------------------------------------------------------------------------------------------------
+
  📚 Documentation
 
 * /supabase/sql/** – self‑contained schema & RLS scripts
