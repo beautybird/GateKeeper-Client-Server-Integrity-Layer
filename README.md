@@ -24,15 +24,15 @@ GateKeeper Basic : Deal with following threats.
 
 | Layer         | What EdgeSecure adds                               |
 | ------------- | -------------------------------------------------- |
-| Transport | Enforces HTTPS, HSTS, no‑compression bodies        |
-| Identity  | Verifies Supabase JWT on each call                 |
-| Freshness | ±30 s timestamp check to block replay              |
+| Transport | Enforces HTTPS, HSTS, no‑compression bodies |
+| Identity  | Verifies Supabase JWT |
+| Freshness | ±30 s timestamp check to block replay |
 | Integrity | HMAC‑SHA‑256 signature |
-| Abuse     | Per‑user rate‑limit         |
-| Logging   | Safe insert into `public.messages` (optional)      |
+| Abuse     | rate‑limit |
+| Logging   | Safe insert into `public.messages` (optional) |
 | Clock‑skew| manipulation  |
 | Reject oversized | Reject oversized |
-| JSON‑schema validation | Strict JSON‑schema validation (Zod) |
+| JSON‑schema validation | Strict JSON‑schema validation  |
 
 
 
