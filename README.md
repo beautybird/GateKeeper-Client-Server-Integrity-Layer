@@ -10,7 +10,7 @@ A security layer sits in front of the connection between a server connection wit
 
 GateKeeper – Client ↔ Server Integrity Layer 
 
-  GateKeeper drops a hardened Edge Function in front of your backend and gives your Flutter & iOS
+  GateKeeper drops a hardened Edge Function in front of your backend and gives your Flutter, iOS & React Native
 apps a cryptographically signed "handshake" on every request.
 
 Each version of GateKeeper(Basic , Advanced) deals with certain threats based on sophistication of the threat. 
